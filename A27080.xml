@@ -1,0 +1,159 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The causes of God's vvrath against England, and a faithfull warning from the Lord to speedy repentance, fore-told by, and delivered in, a letter to the King, dated the 4th of the 7th month, 1663 by Charles Bayley ...</title>
+            <author>Bayley, Charles, 17th cent.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1665</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A27080</idno>
+            <idno type="STC">Wing B1472</idno>
+            <idno type="STC">ESTC R11540</idno>
+            <idno type="EEBO-CITATION">11687452</idno>
+            <idno type="OCLC">ocm 11687452</idno>
+            <idno type="VID">48163</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A27080)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 48163)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 12:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The causes of God's vvrath against England, and a faithfull warning from the Lord to speedy repentance, fore-told by, and delivered in, a letter to the King, dated the 4th of the 7th month, 1663 by Charles Bayley ...</title>
+                  <author>Bayley, Charles, 17th cent.</author>
+               </titleStmt>
+               <extent>7 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1665.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Friend's Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:48163:1"/>
+            <pb facs="tcp:48163:1" rendition="simple:additions"/>
+            <p>THE CAUSES OF GOD's VVRATH Againſt <hi>ENGLAND;</hi> AND A Faithfull Warning From the LORD to Speedy Repentance; Fore-told by, and delivered in, A LETTER to the KING, Dated the 4th of the 7th month, 1663.</p>
+            <p>By <hi>CHARLES BAYLEY,</hi> then Priſoner in the City of <hi>Briſtol,</hi> now in the Tower of <hi>London.</hi>
+            </p>
+            <p>
+               <hi>London,</hi> Printed in the Year, 1665.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:48163:2"/>
+            <pb n="3" facs="tcp:48163:2"/>
+            <head>A Copy of a LETTER to the <hi>KING,</hi> &amp;c.</head>
+            <p>O KING, The Whirlwind of the Lord God is com<g ref="char:EOLhyphen"/>ing on the Nation, and Wo is ready to be poured forth upon all the workers of Iniquity: ſo that all are to to haſt to meet the Lord in Judgment; and thou amongſt the reſt, O King, wilt not be exempted; but naked muſt thou appear before the King of kings, who is come, and riſen to take to himſelf the Poſſeſſion, and ſole Rule of all the Kingdoms of this World: And this in <hi>Eng<g ref="char:EOLhyphen"/>land</hi> will firſt be known and brought to paſs, in as much, as it hath firſt been warned above, and beyond all the Nations and Kingdoms of the world.</p>
+            <p>Therefore hear, and give ear, O King, what in the Life of Love I ſhall in much plaineſs ſay unto thee, and what in the Viſion of the Almighty, I have ſeen concerning thoſe, who ſeem to be nearly allyed unto thee.</p>
+            <p>
+               <hi>I ſaw, and beheld them as men feeding themſelves for the ſlaugh<g ref="char:EOLhyphen"/>te<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, fatted and full, living in their fulneſs without meaſure;</hi> then I heard a voice, which ſaid, <hi>Their time is but ſhort;</hi> and verily, I laid up the ſaying in my heart, waiting in quiet<g ref="char:EOLhyphen"/>neſs until I might have a fit opportunity to ſpeak unto thee concerning this matter, for I often remember the promiſe I made to thee, when I ſpake unto thee laſt, which was, That if I did know any thing which would do thee hurt, I ſhould tell thee of it; ſo that I being thus bound by promiſe, I could do no other in this Meſſage and Warning of Love than to ad<g ref="char:EOLhyphen"/>viſe thee of theſe following things, which tend to thy utter ruine, hurt and deſtruction.</p>
+            <p>Firſt, The great Rioting and exceſs of Eating and Drink<g ref="char:EOLhyphen"/>ing without fear, and riſing up to play, all which is found daily within thy Courts, the Lord's Soul abhors it.</p>
+            <p>Secondly, The great Chambering and Wantoneſs, and
+<pb n="4" facs="tcp:48163:3"/>the making proviſion for the fleſh, to fulfil the luſts thereof, the Spirit of the Lord God is grieved therewith, and his An<g ref="char:EOLhyphen"/>ger is kindled againſt it, and ready to break forth, and burn with unquenchable fire, which not any thing will be able to quench, except true and unfeigned Repentance, which will be hard to be found within thy dwelling-place, O King.</p>
+            <p>Thirdly, The great and grievous Oppreſſions which are within thy dwelling-place, the Land mourns becauſe there<g ref="char:EOLhyphen"/>of; as alſo, the great Swearing, and For-ſwearing Pride, and Hypocriſie which is within the Gates, the Lord's Con<g ref="char:EOLhyphen"/>troverſie is againſt thy Family for it.</p>
+            <p>Fourthly, The many and grievous Injuries which the Lord's People have ſuſtained under thy Name and Govern<g ref="char:EOLhyphen"/>ment, the Lord of Truth is highly diſpleaſed with thee be<g ref="char:EOLhyphen"/>cauſe of it.</p>
+            <p>For conſider, O King, (as thou art an earthly Prince) would it not have been a grievous thing for thee to have ſeen thy true and faithful Subjects, to be taken and caſt into Pri<g ref="char:EOLhyphen"/>ſon, and there kept until death, and the ſpoyling their goods, to the undoing, not only of themſelves, but their Families, for no other cauſe, but for their Loyalty and Subjection to thee, having a tender care and reſpect to thy Law; yea, may I not ſay, that thing hath gone already very near thee, even the things which have been done againſt thy Fathers Subjects, and thy own: And thou knoweſt right well, that thou art not clear from taking revenge upon thine and their adverſa<g ref="char:EOLhyphen"/>ries for ſuch like doings.</p>
+            <p>Then, O King, What maiſt thou in righteouſneſs expect to be done, or will be done unto all thoſe who have had a hand in the impriſoning in like manner, the Friends, Ser<g ref="char:EOLhyphen"/>vants and Subjects of the Moſt High God, for no other cauſe, then before mentioned in the ſimilitude concerning thee and thy Loyal Subjects.</p>
+            <p>Verily, O King, becauſe I love thy ſoul, I cannot flatter thee, but in the truth and ſincerity of my heart deal faithful<g ref="char:EOLhyphen"/>ly and plainly, and tell thee, thou art highly guilty in, and concerning this matter, in as much as thou haſt conſented to the harm which hath been done to the Followers of the Lamb,
+<pb n="5" facs="tcp:48163:3"/>who is the abſolute KING of Kings, and PRINCE of Princes, and JUDGE of all the Judges, Rulers and Poten<g ref="char:EOLhyphen"/>tates in the Earth, and he will verily take Vengeance on his, and his Fathers enemies; and this is the Word of the Lord God unto thee, which ſhall ſurely be fulfilled ere this Ge<g ref="char:EOLhyphen"/>neration paſs away, and I ſhall be clear of thy blood concern<g ref="char:EOLhyphen"/>ing this matter, before the Lord and all his holy Angels, and Saints who have ſuffered Death in naſty Holes and Dunge<g ref="char:EOLhyphen"/>ons in this Nation, and ſtill do in many places ſuffer in like manner, for no other cauſe, than for the <hi>Cauſe of God, and the Teſtimony of a good Conſcience,</hi> witneſſing againſt Tythes, that inſupportable Popiſh Superſtition, and Impoſition, which hath been contrary to the Mind and Will of God ſet up in this Nation; as alſo Swearing, and other things, which for conſcience ſake they could not do, they have, and do ſtill ſuffer deeply.</p>
+            <p>And know, O King, that the Death and ſufferings of Gods People is verily come very nigh unto him: Therefore this further I have to ſay unto thee, in the tender bowels of God's Love, Oh that the Repentance of <hi>Nineveh</hi> could but yet be ſeen or found within thy Houſe, before the Anger of the Lord break forth, and there be no remedy.</p>
+            <p>
+               <hi>Sodom</hi> and the parts adjacent thereunto, were conſumed becauſe of Luſt, Idleneſs and fulneſs of bread; now ſee whether all theſe things be not found within thy borders; than why ſhould I be blamed, for preaching Repentance un<g ref="char:EOLhyphen"/>to all, who thus in the Light and Day of God are found guilty of theſe things?</p>
+            <p>And then again, read and conſider, was it not becauſe of Whordoms, and ſuch like doings, which cauſed the Spirit of Truth to ſay, That <hi>it repented the Lord at the heart that he had made man,</hi> by which it was ſaid, <hi>My Spirit ſhall not al<g ref="char:EOLhyphen"/>wayes ſtrive with man;</hi> ſo that the flood of his wrath over<g ref="char:EOLhyphen"/>whelmed the wicked, and brought them under his ſore diſ<g ref="char:EOLhyphen"/>pleaſure. And ſeeing that God is unchangable, the ſame yeſterday, to day, and for ever, may not the ſame thing be expected ſuddenly to be done, though not by water, yet in and
+<pb n="6" facs="tcp:48163:4"/>by unquenchable fire it ſhall be done; and what if I ſhould ſay in the Spirit of the Lord, that this fire is already kindled, before which the wicked ſhall be as ſtubble fully dryed; ſure<g ref="char:EOLhyphen"/>ly, O King, I am ready to ſeal the ſame with my blood: yea, and furthermore, I ſay, it ſhall never be extinguiſhed more until that Iniquity, and the workers thereof ſhall ut<g ref="char:EOLhyphen"/>terly be conſumed from off the Earth; though at preſent it may, and hath but yet appeared as a little ſpark, yet behold it burneth ſecretly and hiddenly, and none but thoſe who are in the Light and Myſtery of God can ſee it, or underſtand the matter; but notwithſtanding the wicked ſhall feel it to their utter overthrow and miſery.</p>
+            <p>Further, I ſay unto thee, Believe not thoſe that moſt flat<g ref="char:EOLhyphen"/>ter thee with fawning and flattering Titles and Behaviour, for verily they are thy greateſt enemies, and will ſooneſt turn their hand againſt thee, and this is the infallible Truth of God unto thee, written in tender love and pitty unto thy ſoul, and one day thou ſhalt come to witneſs, and know this to be the Truth of God, ſent unto thee by a real and unfeign<g ref="char:EOLhyphen"/>ed Lover of thy ſoul, which I deſire might find acceptation with God.</p>
+            <p>When thou waſt low in thine own eyes, God brought thee without the help of the arm of fleſh into thy Kingdom, and thou being now highly exalted, there is great danger nigh: I know it not from man, nor by man, but in, and by the Spirit of the Lord God, who will not reſpect the perſons of any.</p>
+            <p>And this is a true and faithful Meſſage unto thee, O King, written, and ſent in love to thy immortal ſoul, to the end, thou mighteſt not be wholly rejected of the Lord, and depri<g ref="char:EOLhyphen"/>ved both of this Kingdom, and that which is to come; for if a repenting heart be but yet found within thy breſt, thou maieſt ſurely be everlaſtingly happy for ever in the Heavens with the bleſſed Hoſt of God, though thy outward Kingdom ſhould be taken from thee ſuddenly, which thing only lieth in the power of him who hath given thee life and breath, to do and diſpoſe of to whom he will; and lay this to heart,
+<pb n="7" facs="tcp:48163:4"/>that <hi>without holineſs no man ſhall ſee the Lord,</hi> but in dreadful Judgment. O King, of a truth for thy ſake I could dye, that thou mayſt yet live and reign for ever and ever.</p>
+            <div type="conclusion">
+               <p>Written by one that is a Priſoner in <hi>Newgate</hi> in the City of <hi>Briſtol,</hi> for the Teſtimony of God's Truth, and for the witneſſing againſt the Idol-Prieſts, againſt whom the Anger of the Lord is kindled, who hath decreed that not one of them ſhall remain in the Land; And let me not be accounted thy Enemy, becauſe <hi>I</hi> tell thee the truth in this matter.</p>
+               <p>There are many more things, which the controverſie of the Lord is againſt; but for brevities ſake <hi>I</hi> ſhall forbear to ſpeak of them at preſent, deſiring ſo much favour of thee, as to ſee thy face, that <hi>I</hi> might yet further ſhew thee the Mind and Will of God, in the doing of which, thou wouldſt be bleſſed; which is my true and unfeigned deſire concerning thee.</p>
+            </div>
+            <closer>
+               <dateline>
+                  <date>the 4th of the 7th month, 1663.</date>
+               </dateline>
+               <signed>Known by the Name of <hi>CHARLES BAYLEY.</hi>
+               </signed>
+            </closer>
+            <trailer>THE END.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
